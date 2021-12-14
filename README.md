@@ -1,2 +1,2 @@
 # Xray-Image-Check
-checks average values of xray images
+checks average values of xray images of the current day
